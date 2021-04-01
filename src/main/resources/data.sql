@@ -1,0 +1,1 @@
+INSERT INTO mysqlexample values(1,'mysql');
